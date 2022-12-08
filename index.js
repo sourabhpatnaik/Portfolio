@@ -22,3 +22,4 @@ themeToggler.onclick = () =>{
         document.body.classList.remove('active');
     }
 }
+
