@@ -449,6 +449,11 @@ section {
     box-shadow: var(--box-shadow-inset);
 }
 
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
 
